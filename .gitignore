@@ -1,0 +1,13 @@
+# Python bytecode and cache files
+*.pyc
+__pycache__/
+
+# Django secret files and settings
+*.env
+*.local
+.env
+
+
+# Virtual environments
+
+env/
