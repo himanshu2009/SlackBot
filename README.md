@@ -16,7 +16,7 @@ This application monitors the National Vulnerability Database (NVD) for new secu
 
 ### Prerequisites
 
-- Python 3.7+
+- Python 3.2
 - Django
 
 ### Steps
